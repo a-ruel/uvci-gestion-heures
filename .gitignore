@@ -1,0 +1,22 @@
+# Dossiers de dépendances
+vendor/
+node_modules/
+
+# Fichiers de configuration sensibles
+inc/config.php
+
+# Sauvegardes et logs
+backups/*.sql
+logs/*.log
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Environnement
+.env
+.idea/
+.vscode/
